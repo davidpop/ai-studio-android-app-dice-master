@@ -1,0 +1,6 @@
+{
+  "name": "DiceMaster",
+  "description": "Dice rolling app for tabletop games and RPGs with customizable dice styling, roll history, and audio-haptic feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
